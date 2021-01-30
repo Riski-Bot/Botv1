@@ -7,7 +7,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/B4NGJ4G0/botwacapv2
+> git clone https://github.com/Riski-Bot/Botv1
 ```
 
 ## Install the dependencies:
@@ -15,7 +15,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwacapv2
+> cd botv1
 > bash install.sh
 ```
 
@@ -129,6 +129,6 @@ you've just cloned!!
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6281386008628)
+* [`WhatsApp`](wa.me/628995820020)
 ### Donate
-* [`Pulsa : +6281386008628`]
+* [`Pulsa : +628995820020`]
